@@ -4,7 +4,7 @@
   "description": "the discord bot part of the ttt_dcrdint addon",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^12.5.3"
   },
   "devDependencies": {},
   "scripts": {
